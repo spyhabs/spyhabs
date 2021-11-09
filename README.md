@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spyhabs
 - 👀 I’m interested in science computer
-- 🌱 I’m currently learning python, full stack, C, Node.js, Git, Express, javascript, SQL
+- 🌱 I’m currently learning python, full stack, C, Node.js, Git, Express, Javascript, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me spyhabs@hotmail.com
 
